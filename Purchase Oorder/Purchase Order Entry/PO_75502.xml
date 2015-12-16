@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Evolution>
+    <Rs>
+        <RsUID></RsUID>
+        <RsType>poorderrq</RsType>
+        <RsUserId>rbaine</RsUserId>
+        <Status>True</Status>
+        <Descr></Descr>
+        <MsgRs>
+            <PurchaseOrder>
+                <PONbr>75502</PONbr>
+                <PODate>12/16/2015</PODate>
+                <Status>O</Status>
+                <Buyer>rbaine</Buyer>
+                <VendId>16064</VendId>
+                <VendName>DELL MARKETING L.P.</VendName>
+                <VendAddr1></VendAddr1>
+                <VendAddr2>1 DELL WAY</VendAddr2>
+                <VendCity>ROUND ROCK</VendCity>
+                <VendState>TX</VendState>
+                <VendZip>78664-7326</VendZip>
+                <VendPhone>8663803355</VendPhone>
+                <VendFax></VendFax>
+                <VendEmail></VendEmail>
+                <ShipAddrId>SCA21</ShipAddrId>
+                <ShipName>ALTMAN PLANTS-SKYLINE DR</ShipName>
+                <ShipAddr1></ShipAddr1>
+                <ShipAddr2>SKYLINE DR &amp; RUDD ROAD</ShipAddr2>
+                <ShipCity>VISTA</ShipCity>
+                <ShipState>CA</ShipState>
+                <ShipZip>92084</ShipZip>
+                <ShipCountry>USA</ShipCountry>
+                <ShipPhone></ShipPhone>
+                <ShipFax></ShipFax>
+                <ShipEmail></ShipEmail>
+                <ShipVia>123</ShipVia>
+                <POAmt>750</POAmt>
+                <DistLoc>01</DistLoc>
+                <OpenPO>-1</OpenPO>
+                <ProjectDescr>PROJ</ProjectDescr>
+                <ShipVendId>12002</ShipVendId>
+                <ShipperName>BALL SEED CO</ShipperName>
+                <PendingApproval>Y</PendingApproval>
+                <ApprovalReqd>Y</ApprovalReqd>
+                <NextApprover>jschricker</NextApprover>
+                <NoteId>555049</NoteId>
+                <RefNbr>abc</RefNbr>
+                <RcptStage>N</RcptStage>
+                <Terms>24</Terms>
+                <RcptDescr>Not Received</RcptDescr>
+                <POStatusDescr>Open Order         (unprinted)</POStatusDescr>
+                <NoteText>This is a note</NoteText>
+                <Last_ReOpen></Last_ReOpen>
+                <Item>
+                    <PONbr>75502</PONbr>
+                    <LineRef>1</LineRef>
+                    <InvtId></InvtId>
+                    <Descr>1G VIVA DAHLIA XXL</Descr>
+                    <QtyOrd>1000</QtyOrd>
+                    <PurchUnit>EA</PurchUnit>
+                    <UnitCost>0.05</UnitCost>
+                    <ExtUnitCost>50</ExtUnitCost>
+                    <ReqdDate>12/16/2015</ReqdDate>
+                    <ISO_ReqdDate>20151216</ISO_ReqdDate>
+                    <PromDate>12/16/2015</PromDate>
+                    <PurAcct>5205</PurAcct>
+                    <PurSub>01</PurSub>
+                    <ClassId></ClassId>
+                    <RcptBy></RcptBy>
+                    <RcptStage>N</RcptStage>
+                    <QtyRcvd>0</QtyRcvd>
+                    <OpenLine>-1</OpenLine>
+                    <RcptDate></RcptDate>
+                    <SvcLineNbr>0</SvcLineNbr>
+                    <Comment>only nice ones</Comment>
+                    <NoteId>0</NoteId>
+                    <WOBOMId>18423</WOBOMId>
+                    <NoteText></NoteText>
+                    <ReOpened></ReOpened>
+                    <Dt_ReOpen></Dt_ReOpen>
+                </Item>
+                <Item>
+                    <PONbr>75502</PONbr>
+                    <LineRef>2</LineRef>
+                    <InvtId></InvtId>
+                    <Descr>PETUNIA Starlet Yellow URC</Descr>
+                    <QtyOrd>1000</QtyOrd>
+                    <PurchUnit>EA</PurchUnit>
+                    <UnitCost>0.5</UnitCost>
+                    <ExtUnitCost>500</ExtUnitCost>
+                    <ReqdDate>12/3/2014</ReqdDate>
+                    <ISO_ReqdDate>20141203</ISO_ReqdDate>
+                    <PromDate>12/16/2015</PromDate>
+                    <PurAcct>5205</PurAcct>
+                    <PurSub>01</PurSub>
+                    <ClassId></ClassId>
+                    <RcptBy></RcptBy>
+                    <RcptStage>N</RcptStage>
+                    <QtyRcvd>0</QtyRcvd>
+                    <OpenLine>-1</OpenLine>
+                    <RcptDate></RcptDate>
+                    <SvcLineNbr>173285</SvcLineNbr>
+                    <Comment></Comment>
+                    <NoteId>0</NoteId>
+                    <WOBOMId>0</WOBOMId>
+                    <NoteText></NoteText>
+                    <ReOpened></ReOpened>
+                    <Dt_ReOpen></Dt_ReOpen>
+                </Item>
+                <Item>
+                    <PONbr>75502</PONbr>
+                    <LineRef>3</LineRef>
+                    <InvtId></InvtId>
+                    <Descr>111</Descr>
+                    <QtyOrd>2000</QtyOrd>
+                    <PurchUnit>EA</PurchUnit>
+                    <UnitCost>0.1</UnitCost>
+                    <ExtUnitCost>200</ExtUnitCost>
+                    <ReqdDate>1/4/2016</ReqdDate>
+                    <ISO_ReqdDate>20160104</ISO_ReqdDate>
+                    <PromDate>12/16/2015</PromDate>
+                    <PurAcct>5205</PurAcct>
+                    <PurSub>01</PurSub>
+                    <ClassId></ClassId>
+                    <RcptBy></RcptBy>
+                    <RcptStage>N</RcptStage>
+                    <QtyRcvd>0</QtyRcvd>
+                    <OpenLine>-1</OpenLine>
+                    <RcptDate></RcptDate>
+                    <SvcLineNbr>0</SvcLineNbr>
+                    <Comment>This is a comment</Comment>
+                    <NoteId>0</NoteId>
+                    <WOBOMId>0</WOBOMId>
+                    <NoteText></NoteText>
+                    <ReOpened></ReOpened>
+                    <Dt_ReOpen></Dt_ReOpen>
+                </Item>
+            </PurchaseOrder>
+        </MsgRs>
+    </Rs>
+</Evolution>
