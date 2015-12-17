@@ -2,7 +2,7 @@
 
 Program review to be broken down by Module (each folder)
 
-Each screen being reviewed should have a folder within its' module folder
+Each screen being reviewed will be listed in the objects.md files and should have a folder within its' module folder
 
 Main review findings should be placed in a file named `review.md`
 
