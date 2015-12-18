@@ -9,5 +9,3 @@ Main review findings should be placed in a file named `review.md`
 Any features or enhancements that we feel are valid but not scheuduled for this phase of developement should go in a file name future.md
 
 :)
-
-...
