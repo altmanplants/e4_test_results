@@ -9,18 +9,18 @@
 
 * PV Dialog after user retrieves filtered list... and user selects a row - <kbd>ENTER</kbd> should select item  `ENTER` = `OK` **DONE**
 * PV Dialog - `DOUBLE CLICK` on row should select item **DONE**
-* TERMS dropdown is empty (assume no data in dev) **HOW TO TEST?**
+* TERMS dropdown is empty (assume no data in dev) **DONE. HOW TO TEST?**
 * RCPT STATUS dropdown in grid should be read only **DONE**
 * There are a few hidden cols in vb6 code, did we include them in E4? **DONE**
-* Shipper Id Validate should populate Shipper Name / shipper name is wrong
+* Shipper Id Validate should populate Shipper Name / shipper name is wrong **DONE**
 * Need some indicator that the PO has a note.  ie. when note text is not zero len then the button should highlight or something **DONE**
 * HG PV - when cursor is in HG Item, <kbd>ENTER</kbd> should = <kbd>Search</kbd>, when grid is focus, <kbd>Enter</kbd> should = <kbd>Ok</kbd> **DONE**
-* Drop-down category should dflt to user pref `Last Category`
+* Drop-down category should dflt to user pref `Last Category` **DONE**
 
-* Vend Item is locked - should be able to enter data 
+* Vend Item is locked - should be able to enter data **DONE**
 * Theme on Notes Dialog? missing **DONE**
 * Required by date change not staying... **DONE**
-* isDirty / save prompt (click new / then enter ponbr should not get save prompt)
+* isDirty / save prompt (click new / then enter ponbr should not get save prompt) **DONE**
 * check if crop is on a po already if so, do not allow add to po (pv or ?)
 * PV on PO Number **DONE**
 * 
@@ -31,7 +31,7 @@
 * copy/paste list of hg items
 
 ### Grid Control
-* grid <kbd>Ctrl</kbd> + <kbd>'</kbd> = copy from cell above **DONE NEEDS TO BE TESTED**
+* grid <kbd>Ctrl</kbd> + <kbd>'</kbd> = copy from cell above **DONE**
 
 
 
@@ -40,12 +40,12 @@
 
 In VB6 - the date control allows several keyboard short cuts
 
-* <kbd>t</kbd> = today
-* <kbd>+</kbd> = add one day
-* <kbd>-</kbd> = subtract one day
-* <kbd>CTRL</kbd> + <kbd>+</kbd> = add one week
-* <kbd>CTRL</kbd> + <kbd>-</kbd> = subtract one week
-* <kbd>F4</kbd> - show production week number **WHAT IS THIS?**
+* <kbd>t</kbd> = today **DONE**
+* <kbd>+</kbd> = add one day **DONE**
+* <kbd>-</kbd> = subtract one day **DONE**
+* <kbd>CTRL</kbd> + <kbd>+</kbd> = add one week **DONE**
+* <kbd>CTRL</kbd> + <kbd>-</kbd> = subtract one week **DONE**
+* <kbd>F4</kbd> - show production week number **DONE**
 
 18423
 18424
