@@ -13,25 +13,25 @@
 
 Risk | Module | Description | Obj Qty | Seq |
 :---:|---|:---|---:|:---:|
-3|CASO|Sales Order Management|20| |
-1|CAAR|Accounts Receivable|1||
-0|CAAP|Accounts Payable|0
-1|CADI|Document Imaging|2
-3|CAEC|Electronic Commerce EDI|13
-1|CACM|Customer Management|13
-2|CAIN|Inventory Management|32
-1|CAPI|Physical Inventory|6
-3|CAPP|Production Scheduling|47
-0|CAPM|Price/Contract Management|0
-1|CAAV|Availability Management|11
-1|CAPO|Purchase Order Management|15|2
-3|CARS|Routing & Scheduling|33
-1|CASA|Sales Analysis|14
-1|CAAC|Ad Calendar| 0
-0|CATA|Time & Attendance (nothing in use)|4
-1|CAIT|iTrack (all web)|15
-1|CARC|RepConnect (all web)|8
-1|CASS|System Admin (mostly web)|38|1
+3|CASO|Sales Order Management    			|20| 6 |
+1|CAAR|Accounts Receivable       			| 1| 4 |
+0|CAAP|Accounts Payable          			| 0|n/a|
+1|CADI|Document Imaging          			| 2|  7|
+3|CAEC|Electronic Commerce EDI   			|13|  8|
+1|CACM|Customer Management       			|13|  3|
+2|CAIN|Inventory Management      			|32|  9|
+1|CAPI|Physical Inventory        			| 6|  5|
+3|CAPP|Production Scheduling     			|47| 12|
+0|CAPM|Price/Contract Management 			| 0|n/a|
+1|CAAV|Availability Management   			|11| 10|
+1|CAPO|Purchase Order Management 			|15|  2|
+3|CARS|Routing & Scheduling      			|33| 11|
+1|CASA|Sales Analysis            			|14|
+1|CAAC|Ad Calendar               			| 0|n/a|
+0|CATA|Time & Attendance (nothing in use) 	| 4|n/a|
+1|CAIT|iTrack (all web)          			|15|n/a|
+1|CARC|RepConnect (all web)      			| 8|n/a|
+1|CASS|System Admin (mostly web) 			|38|  1|
 
 
 Risk - 
