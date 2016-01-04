@@ -50,3 +50,13 @@ In VB6 - the date control allows several keyboard short cuts
 18423
 18424
 18425
+
+
+	Round 2 -  
+	Evolution Version: 0.0.3.0
+	Branch: purchse-order
+	Review Date: `1/4/2016 10:55:03 AM `
+
+*	if shipper id is entered or selected from F3, screen should populate the shipper name
+*	in the date control.. .can we use the +/- key on the numeric keypad too?
+*	Ctrl - note subtracting 1 wk from date

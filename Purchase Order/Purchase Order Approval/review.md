@@ -23,4 +23,10 @@
 
 <hr>
 
-#### Round 2 - 
+	
+	Round 2 -  
+	Evolution Version: 0.0.3.0
+	Branch: purchse-order
+	Review Date: `1/4/2016 10:46:55 AM ` 
+
+*	if user click on 'x' link to close the HTML page in the preview pane... the user is unable to view another po, exception occurs on line: 202 of UserControlPurchaseOrderApproval.cs.  Can we either prevent the webBrowswerPO control from being set to NULL or test/catch null exception just in case user clicks the 'x'
