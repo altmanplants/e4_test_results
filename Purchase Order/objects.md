@@ -2,7 +2,7 @@
 
 Type | Module | ID | Description | Complete (Y/N) |
 :---:|---|:---|:---|:---:|
-Report | CAPO | CAPO10000 | Purchase Order |  -
+Report | CAPO | CAPO10000 | Purchase Order |  Y
 Report | CAPO | CAPO11000 | Open Purchase Orders |  -
 Report | CAPO | CAPO14000 | Purchase Order History | - 
 Report | CAPO | CAPO20000 | Receiving Report |  -
@@ -10,7 +10,7 @@ Report | CAPO | CAPO40000 | Receipt Forecast |  -
 Screen | CAPO | CAPO10000 | Purchase Order Entry | Y 
 Screen | CAPO | WAPO10100.asp | Purchase Order Inquiry |  Y / C#
 Screen | CAPO | WAPO10500.asp | Purchase Order Line Item History Search |  Y
-Screen | CAPO | CAPO11000 | Purchase Order Printing |   
+Screen | CAPO | CAPO11000 | Purchase Order Printing | 
 Screen | CAPO | CAPO12000 | Purchase Order Receiving |  
 Screen | CAPO | WAPO12000.asp | Purchase Order Approval (web) |  Y
 Screen | CAPO | CAPO13000 | Purchase Order Approval | Y 
