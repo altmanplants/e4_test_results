@@ -60,3 +60,23 @@ In VB6 - the date control allows several keyboard short cuts
 *	if shipper id is entered or selected from F3, screen should populate the shipper name
 *	in the date control.. .can we use the +/- key on the numeric keypad too?
 *	Ctrl - note subtracting 1 wk from date
+
+
+	Round 3 -  
+	Evolution Version: 0.0.3.0
+	Branch: purchse-order
+	Review Date: `1/6/2016 11:49:23 AM`
+
+*	Need to populate Terms when vendor is selected - (test in Production)
+*	Limit Entry to
+	*	ShipVia = 15
+	*	RefNbr = 30
+	*	Buyer = 25
+	*	Proj Descr = 15
+	*	Shipper Id = 10
+	*	Shipper Name = 30
+	*	Vend Item = 30
+	*	Description = 30
+	*	Comment = 70
+	
+
