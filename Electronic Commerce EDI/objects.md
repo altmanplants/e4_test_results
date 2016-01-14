@@ -1,6 +1,6 @@
 Type | Module | ID | Description | Complete (Y/N) |
 :---:|---|:---|:---|:---:|
-Screen | CA | CAEC10000 | Receive EDI (850) | - | 
+Screen | CA | CAEC10000 | Receive EDI (850) | Y | 
 Screen | CA | WAEC06000.ASP | EDI SKU Translator | Y | 
 Screen | CA | CAEC20000 | Send Edit Invoice (810) | - | 
 Screen | CA | CAEC21000 | Invoice PO# Editor | - | 
